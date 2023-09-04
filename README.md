@@ -19,6 +19,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vshnv&show_icons=true&locale=en&layout=compact" alt="vshnv" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vshnv&show_icons=true&locale=en" alt="vshnv" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vshnv&" alt="vshnv" /></p>
